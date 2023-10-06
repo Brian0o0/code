@@ -1,0 +1,33 @@
+line 0 - The next line is line 1 (f1)
+ A  B  C  D  E  H  F 
+ 5  1  2  8  3  7  9   
+ 4  3  7  6  1  2  5 
+line 4 - The next line is line 5 (f2)
+ D  E  C  A  F  G  H  I  
+ 6  8  3  5  7  1  9  2  
+ 8  1  2  7  4  5  3  9  
+line 8 - The next line is line 9 (f3)
+ I  J  K  L  M  N  P  Q 
+ 6  3  1  2  5  8  7  9  
+ 2  5  2  3  8  5  3  2  
+line 12 - The next line is line 13 (f4)
+ M  N  P  Q  R  S  T 
+ 7  1  5  4  3  9  8
+ 1  4  2  8  9  5  6
+line 16 - The next line is line 17 (f5)
+ M  N  P  Q  R  S  T 
+ 7  1  5  4  3  9  8
+ 1  4  2  8  9  5  6
+line 20 - The next line is line 21 (f6)
+ M  N  P  Q  R  S  T 
+ 7  1  5  4  3  9  8
+ 1  4  2  8  9  5  6
+line 24 - The next line is line 25 (f7)
+ M  N  P  Q  R  S  T 
+ 7  1  5  4  3  9  8
+ 1  4  2  8  9  5  6 
+line 28 - The next line is line 29 (f8)
+ M  N  P  Q  R  S  T 
+ 7  1  5  4  3  9  8
+ 1  4  2  8  9  5  6
+END OF DATA
